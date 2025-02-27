@@ -1,4 +1,4 @@
-import { HashRouter, Link, Route, Routes } from "react-router-dom";
+import { HashRouter, Route, Routes } from "react-router-dom";
 import { FavoritesProvider } from "./favoritesContext/FavoritesContext";
 import { CartProvider } from "./context/CartContext";
 import "./App.css";
